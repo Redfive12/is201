@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(78, 78, 78);
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+a{
+    color: aqua;
+}
+a:visited{
+    color: wheat;
+}
+img{
+    border: 2px solid white;
+    padding: 2px;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.rizz{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    background-color: black;
+    font-size: medium;
+}
+.yeet{
+    color: orangered;
+}
