@@ -1,0 +1,16 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.site-heading-lower{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.mb-3{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey !important;
+}
+.notgrey{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}
